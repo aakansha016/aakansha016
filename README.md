@@ -1,10 +1,12 @@
-## 🌟 Aakansha Choudhary — Not Your Average Coder
+## 🌟 Aakansha Choudhary 
 
-Hey! I’m Aakansha — a **CS grad turned backend whisperer** with an obsession for turning **data into insight** and **logic into elegance**.
+Hey! I’m Aakansha — a **CS grad** with an obsession for turning **data into insight** and **logic into elegance**.
 
-When I didn’t get into my dream MBA (thanks, work experience), I didn’t sulk — I recalibrated. Now, I’m diving deep into **quant finance**, **AI systems**, and everything that makes complex things feel *effortless*. Whether it’s decoding market data, building an AI-powered underwriting tool, or just making a backend feel seamless — I’m in my element.
+Landing an interview with Citadel, even though I didn’t get the job, was a turning point. It sparked my curiosity and pushed me to start learning quantitative finance and AI systems on my own. Later, I applied to my dream MBA program, but didn’t get in due to lack of work experience. Still, that rejection just reinforced what I’d already discovered: I didn’t need permission to chase what intrigued me. Whether it’s untangling messy market data, building intelligent underwriting tools, or architecting clean, scalable systems — this is the kind of work I’m meant to do.
+
 
 > I don’t drink coffee. I run on clarity, clean code, and playlists that know what I need before I do.
+
 
 ### ⚡ What Drives Me
 - Building intelligent tools that actually get used
